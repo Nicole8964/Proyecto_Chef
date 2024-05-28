@@ -1,0 +1,50 @@
+body,
+input{
+    font-family: "Poppins", sans-serif;
+}
+.container3{
+    width: 350px;
+    height: auto;
+    margin: 100px auto;
+    padding: 20px;
+    border: 4px solid #000000;
+    text-align: center;
+    border-radius: 25px;
+    background-color: rgb(209, 41, 64);
+    align-items: center;
+    box-shadow: 0 6px 6px 7px #721313 inset;
+}
+h2{
+    margin-top: 0;
+    font-size: 35px;
+}
+input{
+    background-color: rgb(243, 128, 128);
+    margin: 10px;
+    height: 35px;
+    border-radius: 15px;
+}
+button{
+    padding: 5px 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 20px;
+}
+form>div{
+    position: relative;
+    width: 300px;
+    margin-top: auto;
+}
+form>div>input{
+    margin-top: auto;
+    box-sizing: border-box;
+    padding: 30px 10px 10px;
+    border: 1 rgb(151, 22, 22);
+    box-shadow: 0 1px 1px #000 inset;
+}
+.fa-solid{
+    font-size: 30px;
+}
+label{
+    font-size: 20px;
+}
